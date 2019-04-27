@@ -1,0 +1,22 @@
+{
+  "name": "piroll",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "gulp browser-sync"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yetisergey/piroll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yetisergey/piroll/issues"
+  },
+  "homepage": "https://github.com/yetisergey/piroll#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.1"
+  }
+}
